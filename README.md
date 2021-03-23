@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a website created to show you how I make coffee, so if anyone out there just got an intrest in coffee and didn't know where to start, this website may help you Brew a simple coffee.
 
-Things you may want to cover:
+This website mainly covers 4  methods of brewing:
 
-* Ruby version
+* V60 pour over
 
-* System dependencies
+* Moka pot
 
-* Configuration
+* Siphon
 
-* Database creation
+* French press
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
