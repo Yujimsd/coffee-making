@@ -5,3 +5,19 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Coffee.create!(
+  [
+    {
+      name: 'V60 Pour Over'
+    },
+    {
+      name: 'Moka Pot'
+    },
+    {
+      name: 'Siphon'
+    },
+    {
+      name: 'French Press'
+    }
+  ]
+)
