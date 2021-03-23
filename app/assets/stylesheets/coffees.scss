@@ -1,3 +1,30 @@
 // Place all the styles related to the coffees controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+.banner{
+  background: url(coffee.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.card_body{
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  div{
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.1);
+  }
+}
+
